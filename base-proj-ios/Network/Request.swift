@@ -18,8 +18,6 @@ class Request: RequestProtocol {
     private var queryParams: [String]?
     
     func post(data: Any, endpoint: String) -> Any? {
-//        Alamofire
-//            .request(self.url!)
         return ""
     }
     
