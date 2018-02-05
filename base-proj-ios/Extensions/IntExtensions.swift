@@ -10,4 +10,18 @@ import Foundation
 
 extension Int {
     
+    func exponentiate() -> Int {
+        return self * self
+    }
+    
+    func half() -> Int {
+        return self / 2
+    }
+    
+    func fibonacci() -> [Int] {
+        if (self == 0 || self == 1) {
+//            return
+        }
+        return [Int]()
+    }
 }

@@ -25,6 +25,7 @@
 		7BD296A42028958B004E7D56 /* FloatExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD296A32028958B004E7D56 /* FloatExtensions.swift */; };
 		7BD296A620289614004E7D56 /* DoubleExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD296A520289614004E7D56 /* DoubleExtensions.swift */; };
 		7BD296A820289667004E7D56 /* BaseCast.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD296A720289667004E7D56 /* BaseCast.swift */; };
+		7BD296AA202898E7004E7D56 /* ArrayExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD296A9202898E7004E7D56 /* ArrayExtensions.swift */; };
 		7BF349042024DC9D006C99EF /* Request.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF349032024DC9D006C99EF /* Request.swift */; };
 		7BF349062024DD26006C99EF /* RequestProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF349052024DD26006C99EF /* RequestProtocol.swift */; };
 		7BF349082024E257006C99EF /* Serialize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF349072024E257006C99EF /* Serialize.swift */; };
@@ -77,6 +78,7 @@
 		7BD296A32028958B004E7D56 /* FloatExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatExtensions.swift; sourceTree = "<group>"; };
 		7BD296A520289614004E7D56 /* DoubleExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoubleExtensions.swift; sourceTree = "<group>"; };
 		7BD296A720289667004E7D56 /* BaseCast.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseCast.swift; sourceTree = "<group>"; };
+		7BD296A9202898E7004E7D56 /* ArrayExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayExtensions.swift; sourceTree = "<group>"; };
 		7BF349032024DC9D006C99EF /* Request.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Request.swift; sourceTree = "<group>"; };
 		7BF349052024DD26006C99EF /* RequestProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestProtocol.swift; sourceTree = "<group>"; };
 		7BF349072024E257006C99EF /* Serialize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Serialize.swift; sourceTree = "<group>"; };
@@ -215,6 +217,7 @@
 				7BD296A32028958B004E7D56 /* FloatExtensions.swift */,
 				7BD296A520289614004E7D56 /* DoubleExtensions.swift */,
 				7BD296A720289667004E7D56 /* BaseCast.swift */,
+				7BD296A9202898E7004E7D56 /* ArrayExtensions.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -545,6 +548,7 @@
 				7BF349062024DD26006C99EF /* RequestProtocol.swift in Sources */,
 				7BD2969B202882BA004E7D56 /* ErrorTypeEnum.swift in Sources */,
 				7BF349042024DC9D006C99EF /* Request.swift in Sources */,
+				7BD296AA202898E7004E7D56 /* ArrayExtensions.swift in Sources */,
 				7BD296A42028958B004E7D56 /* FloatExtensions.swift in Sources */,
 				7B2B16F12024A55100C63683 /* AppDelegate.swift in Sources */,
 				7BF349082024E257006C99EF /* Serialize.swift in Sources */,
