@@ -17,6 +17,4 @@ extension String {
         .count > 1
     }
     
-    
-    
 }

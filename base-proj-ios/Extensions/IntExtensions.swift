@@ -18,6 +18,14 @@ extension Int {
         return self / 2
     }
     
+    func isEven() -> Bool {
+        return (self % 2 == 0) ? true : false
+    }
+    
+    func isOdd() -> Bool {
+        return (self % 2 != 0) ? true : false
+    }
+    
     func fibonacci() -> [Int] {
         if (self == 0 || self == 1) {
 //            return

@@ -1,5 +1,5 @@
 //
-//  BoolExtensions.swift
+//  ValidateCPFAndCNPJ.swift
 //  base-proj-ios
 //
 //  Created by Alexandre Henrique on 05/02/18.
@@ -8,10 +8,6 @@
 
 import Foundation
 
-extension Bool {
+class ValidateCPFAndCNPJ {
     
-    func castToInt() -> Int {
-        return self ? 1 : 0
-    }
-
 }
